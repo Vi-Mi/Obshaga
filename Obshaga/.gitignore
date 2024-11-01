@@ -74,4 +74,5 @@ Plugins/**/Intermediate/*
 DerivedDataCache/*
 
 # Mac system files
+../.DS_Store
 .DS_Store
